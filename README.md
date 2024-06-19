@@ -14,8 +14,7 @@ The Stable Diffusion Style Organizer is a PyQt5-based desktop application design
 
 ## Installation
 
-1. Clone the repository or download the source code.
-2. Run the `install.bat` file to install the necessary dependencies.
+1. Run the `install.bat` file to install the necessary dependencies.
 
 ```bat
 install.bat
