@@ -3,6 +3,8 @@
 ## Description
 The Stable Diffusion Style Organizer is a PyQt5-based desktop application designed to manage and organize styles for Stable Diffusion prompts. It allows users to load, save, add, edit, and delete styles from a CSV file. The application features a dark theme and customizable font sizes.
 
+<img src='https://drive.google.com/uc?export=view&id=168hykuZRBNIFptv_VlbTg3Ws5zzQkMvT'>
+
 ## Features
 - Load and save styles from a CSV file
 - Add, edit, and delete styles
